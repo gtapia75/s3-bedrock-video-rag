@@ -1,1 +1,0 @@
-# s3-bedrock-video-rag
