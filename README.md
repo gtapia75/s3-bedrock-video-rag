@@ -186,4 +186,4 @@ Built-in cost controls:
 
 ## 📄 License
 
-MIT (or your preferred license)
+NONE
